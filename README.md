@@ -1,2 +1,2 @@
 # Campus-Network-Project
-undergraduate project
+Undergraduate Personal Project
